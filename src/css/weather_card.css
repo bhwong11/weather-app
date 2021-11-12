@@ -1,0 +1,7 @@
+.weather_card_temps{
+    display: flex;
+    justify-content: space-evenly;
+}
+.weather_card_dark-gray{
+    color:grey;
+}
